@@ -19,3 +19,6 @@ also
 I'm adding three lines... here's the first.
 I know... a boring second line.
 This third line won't have ellipses in it.
+thank goodness
+it is
+Friday
